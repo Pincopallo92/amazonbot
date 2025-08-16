@@ -1,0 +1,3 @@
+python-telegram-bot==20.4
+paapi5_python_sdk
+requests
