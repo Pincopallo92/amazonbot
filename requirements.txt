@@ -1,3 +1,5 @@
 python-telegram-bot==20.4
 paapi5_python_sdk
 requests
+git+https://github.com/amzn/paapi5-python-sdk.git
+
